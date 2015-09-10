@@ -1,8 +1,8 @@
 package com.mikolajLech.framework.implementation;
 
-import com.mikolajLech.framework.Image;
-
 import android.graphics.Bitmap;
+
+import com.mikolajLech.framework.Image;
 import com.mikolajLech.framework.Graphics.ImageFormat;
 
 public class AndroidImage implements Image {
